@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "1789595724023",
+      "name": "Admin",
+      "email": "asasd@gaasg.ua",
+      "password": "qqqqqq",
+      "role": "admin"
+    }
+  ],
+  "ads": []
+}
